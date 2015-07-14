@@ -1,2 +1,2 @@
-# device_lge_u2
+# vendor_lge_u2
 
